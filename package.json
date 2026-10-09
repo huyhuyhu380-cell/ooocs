@@ -1,0 +1,26 @@
+{
+  "name": "sunwin-ai",
+  "version": "9.0.0",
+  "description": "AI dự đoán Tài Xỉu Sunwin - Pattern Database Edition",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "@fastify/cors": "^9.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "sunwin",
+    "taixiu",
+    "ai",
+    "prediction"
+  ],
+  "author": "huyhuyhu380-cell",
+  "license": "MIT"
+}
